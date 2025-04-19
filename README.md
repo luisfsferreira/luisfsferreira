@@ -22,16 +22,16 @@
 🧪 **Master’s Thesis:** 
 
 I adapted an automatic segmentation model in **Python** to identify **fibrosis in the left ventricular myocardium** from cardiac MRI images. I implemented a new attention mechanism to improve accuracy, using techniques from **Computer Vision** and **Deep Learning** with **PyTorch**.
-**Thesis Grade**: 18  
-**Skills**: Bash, PyTorch,  PyTorch Lightning, TensorFlow, Scikit-learn, Machine Learning, Python
+- **Thesis Grade**: 18  
+- **Skills**: Bash, PyTorch,  PyTorch Lightning, TensorFlow, Scikit-learn, Machine Learning, Python
 
 
 
 ### 📍 University of Minho  
 **Bachelor's in Biology and Geology**  
-🗓 Sep 2019 – Jul 2022  
-**Final Grade**: 14  
-**Skills**: R, Jamovi
+- 🗓 Sep 2019 – Jul 2022  
+- **Final Grade**: 14  
+- **Skills**: R, Jamovi
 
 ---
 
