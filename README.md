@@ -13,7 +13,7 @@
 
 ---
 
-### 🎓 University of Minho  
+### 📍 University of Minho  
 **Master's in Bioinformatics**  
 🗓 Sep 2022 – Dec 2024  
 **Final Grade**: 17 
@@ -27,7 +27,7 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
 
 ---
 
-### 🎓 University of Minho  
+### 📍 University of Minho  
 **Bachelor's in Biology and Geology**  
 🗓 Sep 2019 – Jul 2022  
 **Final Grade**: 14  
