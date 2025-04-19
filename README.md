@@ -33,7 +33,7 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
 **Final Grade**: 14  
 **Skills**: R, Jamovi
 
-📂 **Highlighted Projects on this GitHub:**
+### 📂 **Highlighted Projects on this GitHub:**
 - `Projeto_de_bioinformatica`: Extraction of scientific data from PubMed abstracts.
 - `SI_Bioinformatica`: Machine Learning applications in Bioinformatics.
 - `Algoritmos_e_Base_Dados`: Scripts for sequence analysis and data structuring.
