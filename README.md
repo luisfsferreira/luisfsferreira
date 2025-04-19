@@ -1,30 +1,17 @@
-# Bio 
+# Bio
 
-👋 Olá! Sou o Luís Ferreira. Concluí a licenciatura em Biologia e Geologia e obtive o mestrado em Bioinformática, ambos pela Universidade do Minho.
+👋 Hi! I'm Luís Ferreira. I completed a Bachelor's degree in Biology and Geology and earned a Master's in Bioinformatics, both from the University of Minho.
 
-💡 O meu interesse pela biologia levou-me a explorar o potencial da computação aplicada à investigação biomédica. Durante o mestrado, aprofundei competências em **programação, análise de dados e inteligência artificial**, aplicando estas ferramentas para resolver desafios reais na área da saúde.
+💡 My interest in biology led me to explore the potential of computing applied to biomedical research. During my Master's, I developed strong skills in **programming, data analysis, and artificial intelligence**, applying these tools to tackle real-world challenges in the healthcare field.
 
-🧪 **Tese de Mestrado:** Adaptei um modelo de segmentação automática em **Python** para identificar a **fibrose no miocárdio ventricular esquerdo** em imagens de ressonância magnética cardíaca. Implementei um novo mecanismo de atenção para melhorar a precisão, usando técnicas de **Visão Computacional** e **Deep Learning** com **PyTorch**.
-
-🔧 **Competências técnicas:**
-- Linguagens: `Python`, `R`, `Bash`, `SQL`
-- Frameworks: `PyTorch`, `Scikit-learn`, `TensorFlow`
-- Análise de dados: `Jamovi`, `Power BI` 
-- Bases de dados: `MySQL`
-
-📂 **Projetos em destaque neste GitHub:**
-- `Projeto_de_bioinformatica`: Extração de dados científicos de abstracts do PubMed.
-- `SI_Bioinformatica`: Aplicações de Machine Learning em Bioinformática.
-- `Algoritmos_e_Base_Dados`: Scripts para análise de sequências e estruturação de dados.
-
-🌱 Estou motivado para aplicar os conhecimentos adquiridos e aprender ainda mais!
+🧪 **Master’s Thesis:** I adapted an automatic segmentation model in **Python** to identify **fibrosis in the left ventricular myocardium** from cardiac MRI images. I implemented a new attention mechanism to improve accuracy, using techniques from **Computer Vision** and **Deep Learning** with **PyTorch**.
 
 
 ## 🎓 Education
 
-### 📍 IEFP Instituto De Emprego E Formação Profissional  
+### 📍 IEFP 
 **Training Certification**, Business Intelligence  
-🗓 Jan 2025 – Jan 2025  
+🗓 April 2025 – July 2025  
 **Skills**: Business Analysis, ETL, SQL, Power BI, XAMP, WordPress
 
 ---
@@ -33,7 +20,7 @@
 **Master's in Bioinformatics**  
 🗓 Sep 2022 – Dec 2024  
 **Final Grade**: 17 | **Thesis Grade**: 18  
-**Skills**: R, Python, Statistics, Machine Learning, SQL, Data Structures and Algorithms, Bash, GitHub, PyTorch, PyTorch Lightning
+**Skills**: R, Python, Statistics, Machine Learning, SQL, Data Structures and Algorithms, Bash, GitHub, PyTorch, PyTorch Lightning, TensorFlow, Scikit-learn
 
 ---
 
@@ -42,3 +29,20 @@
 🗓 Sep 2019 – Jul 2022  
 **Final Grade**: 14  
 **Skills**: R, Jamovi
+
+📂 **Highlighted Projects on this GitHub:**
+- `Projeto_de_bioinformatica`: Extraction of scientific data from PubMed abstracts.
+- `SI_Bioinformatica`: Machine Learning applications in Bioinformatics.
+- `Algoritmos_e_Base_Dados`: Scripts for sequence analysis and data structuring.
+
+🌱 I’m motivated to apply the knowledge I’ve gained and keep learning even more!
+
+
+🔧 **Competências técnicas:**
+- Linguagens: `Python`, `R`, `Bash`, `SQL`
+- Frameworks: `PyTorch`, `Scikit-learn`, `TensorFlow`
+- Análise de dados: `Jamovi`, `Power BI` 
+- Bases de dados: `MySQL`
+
+
+
