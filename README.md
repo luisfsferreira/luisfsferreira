@@ -8,14 +8,14 @@
 
 ### 📍 Business Intelligence Training Certification 
 
-🗓 April 2025 – July 2025 - IEFP
+🗓 April 2025 – July 2025 (IEFP)
 - **Skills**: Business Analysis, ETL, SQL, Power BI, XAMP, WordPress
 
 
 
 ### 📍 **Master's in Bioinformatics** 
    
-🗓 Sep 2022 – Dec 2024 - University of Minho 
+🗓 Sep 2022 – Dec 2024 (University of Minho) 
 - **Final Grade**: 17 
 - **Skills**: R, Python, Statistics, Machine Learning, SQL, Data Structures and Algorithms, Bash, GitHub
 
@@ -28,8 +28,8 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
 
 
 ### 📍 **Bachelor's in Biology and Geology**  
-University of Minho  
-🗓 Sep 2019 – Jul 2022  
+ 
+🗓 Sep 2019 – Jul 2022 (University of Minho) 
 - **Final Grade**: 14  
 - **Skills**: R, Jamovi
 
