@@ -40,14 +40,13 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
 - `SI_Bioinformatica`: Machine Learning applications in Bioinformatics.
 - `Algoritmos_e_Base_Dados`: Scripts for sequence analysis and data structuring.
 
-🌱 I’m motivated to apply the knowledge I’ve gained and keep learning even more!
-
-
 🔧 **Competências técnicas:**
 - Linguagens: `Python`, `R`, `Bash`, `SQL`
 - Frameworks: `PyTorch`, `Scikit-learn`, `TensorFlow`
 - Análise de dados: `Jamovi`, `Power BI` 
 - Bases de dados: `MySQL`
+
+  🌱 I’m motivated to apply the knowledge I’ve gained and keep learning even more!
 
 
 
