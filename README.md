@@ -11,7 +11,7 @@
 🗓 April 2025 – July 2025  
 **Skills**: Business Analysis, ETL, SQL, Power BI, XAMP, WordPress
 
----
+
 
 ### 📍 University of Minho  
 **Master's in Bioinformatics**  
@@ -25,13 +25,15 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
 **Thesis Grade**: 18  
 **Skills**: Bash, PyTorch,  PyTorch Lightning, TensorFlow, Scikit-learn, Machine Learning, Python
 
----
+
 
 ### 📍 University of Minho  
 **Bachelor's in Biology and Geology**  
 🗓 Sep 2019 – Jul 2022  
 **Final Grade**: 14  
 **Skills**: R, Jamovi
+
+---
 
 ### 📂 **Highlighted Projects on this GitHub:**
 - `Projeto_de_bioinformatica`: Extraction of scientific data from PubMed abstracts.
