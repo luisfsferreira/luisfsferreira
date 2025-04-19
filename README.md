@@ -20,6 +20,7 @@
 **Skills**: R, Python, Statistics, Machine Learning, SQL, Data Structures and Algorithms, Bash, GitHub
 
 🧪 **Master’s Thesis:** 
+
 I adapted an automatic segmentation model in **Python** to identify **fibrosis in the left ventricular myocardium** from cardiac MRI images. I implemented a new attention mechanism to improve accuracy, using techniques from **Computer Vision** and **Deep Learning** with **PyTorch**.
 **Thesis Grade**: 18  
 **Skills**: Bash, PyTorch,  PyTorch Lightning, TensorFlow, Scikit-learn, Machine Learning, Python
