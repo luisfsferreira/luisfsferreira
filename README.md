@@ -1,6 +1,6 @@
 # Bio 
 
-👋 Olá! Sou o Luís Ferreira, e a minha formação começou com a licenciatura em Biologia e Geologia, seguido por um mestrado em Bioinformática pela Universidade do Minho.
+👋 Olá! Sou o Luís Ferreira. Concluí a licenciatura em Biologia e Geologia e obtive o mestrado em Bioinformática, ambos pela Universidade do Minho.
 
 💡 O meu interesse pela biologia levou-me a explorar o potencial da computação aplicada à investigação biomédica. Durante o mestrado, aprofundei competências em **programação, análise de dados e inteligência artificial**, aplicando estas ferramentas para resolver desafios reais na área da saúde.
 
