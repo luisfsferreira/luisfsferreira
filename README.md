@@ -18,3 +18,27 @@
 - `Algoritmos_e_Base_Dados`: Scripts para análise de sequências e estruturação de dados.
 
 🌱 Estou motivado para aplicar os conhecimentos adquiridos e aprender ainda mais!
+
+
+## 🎓 Education
+
+### 📍 IEFP Instituto De Emprego E Formação Profissional  
+**Training Certification**, Business Intelligence  
+🗓 Jan 2025 – Jan 2025  
+**Skills**: Business Analysis, ETL, SQL, Power BI, XAMP, WordPress
+
+---
+
+### 🎓 University of Minho  
+**Master's in Bioinformatics**  
+🗓 Sep 2022 – Dec 2024  
+**Final Grade**: 17 | **Thesis Grade**: 18  
+**Skills**: R, Python, Statistics, Machine Learning, SQL, Data Structures and Algorithms, Bash, GitHub, PyTorch, PyTorch Lightning
+
+---
+
+### 🎓 University of Minho  
+**Bachelor's in Biology and Geology**  
+🗓 Sep 2019 – Jul 2022  
+**Final Grade**: 14  
+**Skills**: R, Jamovi
