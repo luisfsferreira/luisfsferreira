@@ -7,15 +7,15 @@
 ## 🎓 Education
 
 ### 📍 Business Intelligence Training Certification 
-IEFP
-🗓 April 2025 – July 2025  
+
+🗓 April 2025 – July 2025 - IEFP
 - **Skills**: Business Analysis, ETL, SQL, Power BI, XAMP, WordPress
 
 
 
 ### 📍 **Master's in Bioinformatics** 
-University of Minho    
-🗓 Sep 2022 – Dec 2024  
+   
+🗓 Sep 2022 – Dec 2024 - University of Minho 
 - **Final Grade**: 17 
 - **Skills**: R, Python, Statistics, Machine Learning, SQL, Data Structures and Algorithms, Bash, GitHub
 
