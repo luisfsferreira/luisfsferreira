@@ -16,8 +16,8 @@
 ### 📍 University of Minho  
 **Master's in Bioinformatics**  
 🗓 Sep 2022 – Dec 2024  
-**Final Grade**: 17 
-**Skills**: R, Python, Statistics, Machine Learning, SQL, Data Structures and Algorithms, Bash, GitHub
+-**Final Grade**: 17 
+-**Skills**: R, Python, Statistics, Machine Learning, SQL, Data Structures and Algorithms, Bash, GitHub
 
 🧪 **Master’s Thesis:** 
 
@@ -29,7 +29,7 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
 
 ### 📍 University of Minho  
 **Bachelor's in Biology and Geology**  
-- 🗓 Sep 2019 – Jul 2022  
+🗓 Sep 2019 – Jul 2022  
 - **Final Grade**: 14  
 - **Skills**: R, Jamovi
 
