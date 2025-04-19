@@ -11,7 +11,6 @@
 - Frameworks: `PyTorch`, `Scikit-learn`, `TensorFlow`
 - Análise de dados: `Jamovi`, `Power BI` 
 - Bases de dados: `MySQL`
-- Desenvolvimento de pipelines e integração de dados biomédicos
 
 📂 **Projetos em destaque neste GitHub:**
 - `Projeto_de_bioinformatica`: Extração de dados científicos de abstracts do PubMed.
