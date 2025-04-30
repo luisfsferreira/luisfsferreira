@@ -9,7 +9,7 @@
 ### 📍 Business Intelligence Training Certification 
 
 🗓 April 2025 – July 2025 (IEFP)
-- **Skills**: Business Analysis, ETL, SQL, Power BI, XAMP, WordPress
+- **Skills**: Business Analysis, ETL, SQL, Power BI, XAMP, WordPress, DAX
 
 
 
