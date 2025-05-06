@@ -44,9 +44,9 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
 
 🔧 **Technical Skills:**
 - Languages: `Python`, `R`, `Bash`, `SQL`, `DAX`
-- Frameworks: `PyTorch`, `Scikit-learn`, `TensorFlow`
-- Data analysis: `Jamovi`, `Power BI` 
-- Database: `MySQL`
+- Frameworks & Libraries: `PyTorch`, `Scikit-learn`, `TensorFlow`
+- Data analysis: `Jamovi`, `Power BI`, `RStudio` 
+- Databases: `MySQL`
 
   
 
