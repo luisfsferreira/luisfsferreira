@@ -50,12 +50,12 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
 
 🧠 **Soft Skills:**
 
-- Quick learner and proactive  
-- Helpful and team-oriented  
-- Driven by challenges and results  
-- Sociable, positive, and energetic  
-- Strong leadership in familiar areas  
-- Motivated by the impact of my work
+- Quick learner and proactive;  
+- Helpful and team-oriented;  
+- Driven by challenges and results;  
+- Sociable, positive, and energetic;  
+- Strong leadership in familiar areas;  
+- Motivated by the impact of my work.
 
 🌱 I’m motivated to apply the knowledge I’ve gained and keep learning even more!
 
