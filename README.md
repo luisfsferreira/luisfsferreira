@@ -54,8 +54,7 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
 - Helpful and team-oriented;  
 - Driven by challenges and results;  
 - Sociable, positive, and energetic;  
-- Strong leadership in familiar areas;  
-- Motivated by the impact of my work.
+- Strong leadership in familiar areas.  
 
 🌱 I’m motivated to apply the knowledge I’ve gained and keep learning even more!
 
