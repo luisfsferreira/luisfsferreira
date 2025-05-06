@@ -42,11 +42,11 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
   
 
 
-🔧 **Competências técnicas:**
-- Linguagens: `Python`, `R`, `Bash`, `SQL`
+🔧 **Technical Skills:**
+- Languages: `Python`, `R`, `Bash`, `SQL`, `DAX`
 - Frameworks: `PyTorch`, `Scikit-learn`, `TensorFlow`
-- Análise de dados: `Jamovi`, `Power BI` 
-- Bases de dados: `MySQL`
+- Data analysis: `Jamovi`, `Power BI` 
+- Database: `MySQL`
 
   
 
