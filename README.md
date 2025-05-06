@@ -39,6 +39,7 @@ I adapted an automatic segmentation model in **Python** to identify **fibrosis i
 - `Projeto_de_bioinformatica`: Extraction of scientific data from PubMed abstracts.
 - `SI_Bioinformatica`: Machine Learning applications in Bioinformatics.
 - `Algoritmos_e_Base_Dados`: Scripts for sequence analysis and data structuring.
+- `Business-Intelligence`: Sales data analysis report for a company in Power BI.
   
 
 
