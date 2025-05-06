@@ -17,7 +17,7 @@
    
 🗓 Sep 2022 – Dec 2024 (University of Minho) 
 - **Final Grade**: 17 
-- **Skills**: R, Python, Statistics, Machine Learning, SQL, Data Structures and Algorithms, Bash, GitHub
+- **Skills**: R, Python, Statistics, Data Analysis, Machine Learning, SQL, Data Structures and Algorithms, Bash, GitHub
 
 🧪 **Master’s Thesis:** 
 
