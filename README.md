@@ -29,11 +29,15 @@ I currently apply my skills to:
 - Sociable, positive, and energetic;  
 - Strong leadership in familiar areas.
 
+  
+
   ### 📂 **Highlighted Projects on this GitHub:**
 - `Projeto_de_bioinformatica`: Extraction of scientific data from PubMed abstracts.
 - `SI_Bioinformatica`: Machine Learning applications in Bioinformatics.
 - `Algoritmos_e_Base_Dados`: Scripts for sequence analysis and data structuring.
 - `Business-Intelligence`: Sales data analysis report for a company in Power BI.
+
+  
 
 🌱 I’m motivated to apply the knowledge I’ve gained and keep learning even more!
 
