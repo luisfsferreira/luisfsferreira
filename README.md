@@ -4,7 +4,7 @@
 
 💡 My interest in biology led me to explore the potential of computing applied to biomedical research. During my Master's, I developed strong skills in **programming, data analysis, and artificial intelligence**, applying these tools to tackle real-world challenges in the healthcare field.
 
-## What I Do
+### What I Do 🚀
 
 I currently apply my skills to:
 
