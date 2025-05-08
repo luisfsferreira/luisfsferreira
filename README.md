@@ -21,11 +21,12 @@ I currently apply my skills to:
 - Data analysis: `Jamovi`, `Power BI`, `RStudio` 
 - Databases: `MySQL`
 
-🧠 **Soft Skills:**
-- Quick learner and proactive. 
-- Helpful and team-oriented. 
-- Driven by challenges and results.  
-- Sociable, positive, and energetic. 
+🧠 **Soft Skills**:
+
+- Quick learner and proactive.
+- Helpful and team-oriented.
+- Driven by challenges and results.
+- Sociable, positive, and energetic.
 - Strong leadership in familiar areas.
 
   
