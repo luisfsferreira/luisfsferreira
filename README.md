@@ -23,10 +23,10 @@ I currently apply my skills to:
 
 🧠 **Soft Skills:**
 
-- Quick learner and proactive;  
-- Helpful and team-oriented;  
-- Driven by challenges and results;  
-- Sociable, positive, and energetic;  
+- Quick learner and proactive. 
+- Helpful and team-oriented. 
+- Driven by challenges and results.  
+- Sociable, positive, and energetic. 
 - Strong leadership in familiar areas.
 
   
