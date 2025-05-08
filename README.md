@@ -15,13 +15,6 @@ I currently apply my skills to:
 - **Create interactive dashboards in Power BI**, transforming complex data into actionable insights.
 - **Apply statistical and exploratory data analysis techniques** to extract meaningful insights from large datasets.
 
-### 📂 **Highlighted Projects on this GitHub:**
-- `Projeto_de_bioinformatica`: Extraction of scientific data from PubMed abstracts.
-- `SI_Bioinformatica`: Machine Learning applications in Bioinformatics.
-- `Algoritmos_e_Base_Dados`: Scripts for sequence analysis and data structuring.
-- `Business-Intelligence`: Sales data analysis report for a company in Power BI.
-  
-
 🔧 **Technical Skills:**
 - Languages: `Python`, `R`, `Bash`, `SQL`, `DAX`
 - Frameworks & Libraries: `PyTorch`, `Scikit-learn`, `TensorFlow`
@@ -34,7 +27,13 @@ I currently apply my skills to:
 - Helpful and team-oriented;  
 - Driven by challenges and results;  
 - Sociable, positive, and energetic;  
-- Strong leadership in familiar areas.  
+- Strong leadership in familiar areas.
+
+  ### 📂 **Highlighted Projects on this GitHub:**
+- `Projeto_de_bioinformatica`: Extraction of scientific data from PubMed abstracts.
+- `SI_Bioinformatica`: Machine Learning applications in Bioinformatics.
+- `Algoritmos_e_Base_Dados`: Scripts for sequence analysis and data structuring.
+- `Business-Intelligence`: Sales data analysis report for a company in Power BI.
 
 🌱 I’m motivated to apply the knowledge I’ve gained and keep learning even more!
 
