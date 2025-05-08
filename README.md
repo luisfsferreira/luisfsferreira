@@ -30,7 +30,6 @@ I currently apply my skills to:
 - Strong leadership in familiar areas.
 
   
-
   ### 📂 **Highlighted Projects on this GitHub:**
 - `Projeto_de_bioinformatica`: Extraction of scientific data from PubMed abstracts.
 - `SI_Bioinformatica`: Machine Learning applications in Bioinformatics.
