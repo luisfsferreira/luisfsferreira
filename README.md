@@ -22,7 +22,6 @@ I currently apply my skills to:
 - Databases: `MySQL`
 
 🧠 **Soft Skills:**
-
 - Quick learner and proactive. 
 - Helpful and team-oriented. 
 - Driven by challenges and results.  
