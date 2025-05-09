@@ -6,12 +6,12 @@
 
 <h3>📫 Contact</h3>
 
-<p>For any information, contact:</p>
-
-<a href="https://www.linkedin.com/in/luisferreira2001/" 
-   style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 14px;">
-   LinkedIn
-</a>
+<p>For any information, contact: 
+   <a href="https://www.linkedin.com/in/luisferreira2001/" 
+      style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 14px;">
+      LinkedIn
+   </a>
+</p>
 
 ### What I Do 🚀
 
