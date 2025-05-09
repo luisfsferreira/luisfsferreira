@@ -40,8 +40,8 @@ I currently apply my skills to:
 
 🌱 I’m motivated to apply the knowledge I’ve gained and keep learning even more!
 
-### 📇 Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/luisferreira2001/)
+### <h3>📫 Contacto Profissional</h3>
+  <p><a href="https://www.linkedin.com/in/luisferreira2001/">Visite meu LinkedIn</a></p>
+</div>
 
 
