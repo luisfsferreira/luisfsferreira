@@ -31,10 +31,10 @@ I currently apply my skills to:
 
   
   ### 📂 **Highlighted Projects on this GitHub:**
-- `Projeto_de_bioinformatica`(https://github.com/luisfsferreira/Projeto_de_bioinformatica): Extraction of scientific data from PubMed abstracts.
-- `SI_Bioinformatica`(https://github.com/luisfsferreira/SI_Bioinformatica): Machine Learning applications in Bioinformatics.
-- `Algoritmos_e_Base_Dados`(https://github.com/luisfsferreira/Algoritmos_e_Base_Dados): Scripts for sequence analysis and data structuring.
-- `Business-Intelligence`(https://github.com/luisfsferreira/Business-Intelligence): Sales data analysis report for a company in Power BI.
+- [Projeto_de_bioinformatica](https://github.com/luisfsferreira/Projeto_de_bioinformatica): Extraction of scientific data from PubMed abstracts.
+- [SI_Bioinformatica](https://github.com/luisfsferreira/SI_Bioinformatica): Machine Learning applications in Bioinformatics.
+- [Algoritmos_e_Base_Dados](https://github.com/luisfsferreira/Algoritmos_e_Base_Dados): Scripts for sequence analysis and data structuring.
+- [Business-Intelligence](https://github.com/luisfsferreira/Business-Intelligence): Sales data analysis report for a company in Power BI.
 
   
 
