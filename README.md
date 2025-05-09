@@ -4,6 +4,13 @@
 
 💡 My interest in biology led me to explore the potential of computing applied to biomedical research. During my Master's, I developed strong skills in **programming, data analysis, and artificial intelligence**, applying these tools to tackle real-world challenges in the healthcare field.
 
+<h3>📫 Contact</h3>
+
+<a href="https://www.linkedin.com/in/luisferreira2001/" 
+   style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 14px;">
+   LinkedIn
+</a>
+
 ### What I Do 🚀
 
 I currently apply my skills to:
@@ -39,11 +46,4 @@ I currently apply my skills to:
   
 
 🌱 I’m motivated to apply the knowledge I’ve gained and keep learning even more!
-
-<h3>📫 Contact</h3>
-
-<a href="https://www.linkedin.com/in/luisferreira2001/" 
-   style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 14px;">
-   LinkedIn
-</a>
 
